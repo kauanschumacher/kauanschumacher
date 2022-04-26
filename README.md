@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-    Software Architecture Specialist | .NET Specialist
+    <samp>Cloud Software Architecture<br/>.NET Specialist<br/>AWS | Azure | GCP</samp>
 </p>
 
 <p align="left">
