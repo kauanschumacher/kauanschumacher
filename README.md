@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kauanschumacher/kauanschumacher/main/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/kauanschumacher/kauanschumacher/main/computer-grayscale.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
     <h2>Hi, I am Kauan Schumacher </h2>
