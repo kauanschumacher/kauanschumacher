@@ -5,9 +5,7 @@
 </p>
 
 <p align="left">
-    <center>
-        <samp>Cloud Software Architecture<br/>.NET Specialist<br/>AWS | Azure | GCP</samp>
-    </center>
+    <samp>Cloud Software Architecture<br/>.NET Specialist<br/>AWS | Azure | GCP</samp>
 </p>
 
 <p align="left">
